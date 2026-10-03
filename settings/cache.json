@@ -1,0 +1,90 @@
+{
+	"profileSelectHistory": {
+		"lunar": [
+			{
+				"time": 1790702294403,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790677104740,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790677044814,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790611440657,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790606694034,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790606636522,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790606380780,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790606195453,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790606034123,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			},
+			{
+				"time": 1790605896219,
+				"version": "1.21.11",
+				"module": "fabric",
+				"profileId": "b6ff56fe-e13d-4020-9324-b0a57358c53f"
+			}
+		],
+		"modrinth": [],
+		"vanilla": [],
+		"user-modpack": [],
+		"curseforge": [],
+		"explore": [],
+		"badlion": []
+	},
+	"__internal__": {
+		"migrations": {
+			"version": "3.7.21-ow"
+		}
+	},
+	"terms": {
+		"privacy": {
+			"updatedAt": "2025-10-16T00:00:00.000Z",
+			"hash": "0adbe35120db93cdc0b3ff0e5cbd11387bedb125",
+			"acceptedAt": "2026-09-27T09:59:56.487Z"
+		},
+		"terms": {
+			"updatedAt": "2025-10-16T00:00:00.000Z",
+			"hash": "0adbe35120db93cdc0b3ff0e5cbd11387bedb125",
+			"acceptedAt": "2026-09-27T09:59:56.487Z"
+		}
+	},
+	"guestViewed": true
+}

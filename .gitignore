@@ -1,0 +1,10 @@
+# Runtime logs & crash reports
+profile/logs/
+profile/crash-reports/
+*.log
+*.log.gz
+*.tmp
+
+# User personal screenshots & history
+profile/screenshots/
+profile/command_history.txt

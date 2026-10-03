@@ -1,0 +1,22 @@
+{
+    "activeAccountLocalId":  "offline_DarkSmayan",
+    "accounts":  {
+                     "offline_DarkSmayan":  {
+                                                "accessToken":  "0",
+                                                "accessTokenExpiresAt":  "2099-01-01T00:00:00Z",
+                                                "eligibleForMigration":  false,
+                                                "hasMultipleProfiles":  false,
+                                                "legacy":  false,
+                                                "persistent":  true,
+                                                "localId":  "offline_DarkSmayan",
+                                                "refreshToken":  "offline_token",
+                                                "minecraftProfile":  {
+                                                                         "id":  "8bef03ccecb738d8aa6acf0b5d7cbe6b",
+                                                                         "name":  "DarkSmayan"
+                                                                     },
+                                                "remoteId":  "0",
+                                                "type":  "Xbox",
+                                                "username":  "DarkSmayan"
+                                            }
+                 }
+}

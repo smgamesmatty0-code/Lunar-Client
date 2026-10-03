@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "allocatedMemory": 2048,
+    "allocated-memory": 2048,
+    "language": "en_US",
+    "afterLaunchAction": "HIDE",
+    "advancedMode": false,
+    "gameBranch": "master",
+    "gameProfile": "b6ff56fe-e13d-4020-9324-b0a57358c53f",
+    "game-profile": "b6ff56fe-e13d-4020-9324-b0a57358c53f",
+    "resolution": {
+      "width": 1024,
+      "height": 600,
+      "fullscreen": false
+    }
+  },
+  "__internal__": {
+    "migrations": {
+      "version": "3.7.21-ow"
+    }
+  },
+  "migrationImportPending": [],
+  "migrationImportSeeded": true
+}
+
